@@ -28,3 +28,7 @@ An easy API for bots
 + 有什么指令阿老师？
 
 hyp bw sw mw uhc duel
+
++ 我还是不会阿老师呜呜呜呜呜呜呜呜
+
+加咱的群吧- - 有空一定教! QQ群:420024671
