@@ -1,11 +1,11 @@
 # Bot-HypixelStatsAPI
 An easy API for bots
 
-h1 废话
+## 废话
 一个简单易懂的Hypixel战绩API，可用于QQ等其他平台调用
 相对于之前我所开发过的Senner/Aritcode，这次使用API极大的增强了兼容性
 
-h1 如何使用
+## 如何使用
 其实你只要清楚我只用了一个api.php就写完了就知道有多简单,如果你还不知道的话呢，跟着我来!
 ___
 ___
